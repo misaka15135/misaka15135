@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-labelledby="title">
+  <title id="title">LLM Experiments: local model deployment and comparison</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#18233d"/><stop offset="1" stop-color="#1c1a35"/></linearGradient></defs>
+  <rect x="1" y="1" width="598" height="208" rx="18" fill="url(#bg)" stroke="#465078"/>
+  <path d="M30 29h4v151h-4Z" fill="#a5b4fc"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="56" y="45" fill="#a5b4fc" font-size="18" letter-spacing="3">03 / AI EXPERIMENTS</text>
+    <text x="56" y="87" fill="#f0f6ff" font-size="33" font-weight="700">LLM Experiments</text>
+    <text x="56" y="125" fill="#b9c7e1" font-size="23">Deploy, compare, understand.</text>
+    <text x="56" y="178" fill="#a5b4fc" font-size="21">Python · Local models</text>
+  </g>
+  <path d="m551 160 12 12-12 12m-22-12h32" stroke="#a5b4fc" stroke-width="2" fill="none"/>
+</svg>

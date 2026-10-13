@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-labelledby="title">
+  <title id="title">Blue and violet starlight divider</title>
+  <defs>
+    <linearGradient id="line"><stop stop-color="#60a5fa" stop-opacity="0"/><stop offset=".45" stop-color="#60a5fa"/><stop offset=".55" stop-color="#c4b5fd"/><stop offset="1" stop-color="#c4b5fd" stop-opacity="0"/></linearGradient>
+  </defs>
+  <path d="M40 18H565M635 18H1160" stroke="url(#line)" stroke-width="1.5"/>
+  <path d="m600 5 3.7 9.3L613 18l-9.3 3.7L600 31l-3.7-9.3L587 18l9.3-3.7Z" fill="#a5b4fc"/>
+  <circle cx="572" cy="18" r="2" fill="#67e8f9"/><circle cx="628" cy="18" r="2" fill="#fda4af"/>
+</svg>

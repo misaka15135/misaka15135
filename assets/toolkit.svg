@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title">
+  <title id="title">Languages and tools: C++, C, Python, JavaScript, Git, Linux</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111d36"/><stop offset="1" stop-color="#1e193b"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="110" rx="18" fill="url(#bg)" stroke="#344362"/>
+  <g fill="none" stroke="#344362"><path d="M201 25v62M401 25v62M601 25v62M801 25v62M1001 25v62"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(101 0)"><text y="51" fill="#7dd3fc" font-size="29" font-weight="700">C++</text><text y="81" fill="#a9b6d3" font-size="18">ALGORITHMS</text></g>
+    <g transform="translate(301 0)"><text y="51" fill="#93c5fd" font-size="29" font-weight="700">C</text><text y="81" fill="#a9b6d3" font-size="18">SYSTEMS</text></g>
+    <g transform="translate(501 0)"><text y="51" fill="#c4b5fd" font-size="29" font-weight="700">Python</text><text y="81" fill="#a9b6d3" font-size="18">EXPERIMENTS</text></g>
+    <g transform="translate(701 0)"><text y="51" fill="#fde68a" font-size="29" font-weight="700">JavaScript</text><text y="81" fill="#a9b6d3" font-size="18">INTERFACES</text></g>
+    <g transform="translate(901 0)"><text y="51" fill="#fda4af" font-size="29" font-weight="700">Git</text><text y="81" fill="#a9b6d3" font-size="18">VERSION CONTROL</text></g>
+    <g transform="translate(1101 0)"><text y="51" fill="#99f6e4" font-size="29" font-weight="700">Linux</text><text y="81" fill="#a9b6d3" font-size="18">DEVELOPMENT</text></g>
+  </g>
+</svg>

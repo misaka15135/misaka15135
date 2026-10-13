@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-labelledby="title">
+  <title id="title">Claude Code Notify: desktop and Telegram notifications</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#25203b"/><stop offset="1" stop-color="#1b1b32"/></linearGradient></defs>
+  <rect x="1" y="1" width="598" height="208" rx="18" fill="url(#bg)" stroke="#65455e"/>
+  <path d="M30 29h4v151h-4Z" fill="#fda4af"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="56" y="45" fill="#fda4af" font-size="18" letter-spacing="3">04 / DEV TOOLS</text>
+    <text x="56" y="87" fill="#f0f6ff" font-size="33" font-weight="700">Claude Code Notify</text>
+    <text x="56" y="125" fill="#b9c7e1" font-size="23">Desktop &amp; Telegram notifications.</text>
+    <text x="56" y="178" fill="#fda4af" font-size="21">Shell · Automation</text>
+  </g>
+  <path d="m551 160 12 12-12 12m-22-12h32" stroke="#fda4af" stroke-width="2" fill="none"/>
+</svg>
