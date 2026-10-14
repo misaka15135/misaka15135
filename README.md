@@ -2,70 +2,81 @@
   <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/banner.png" width="100%" alt="Misaka's silver-haired avatar with red glasses against a blue and violet night skyline" />
 </p>
 
-<h1 align="center">こんにちは、I'm Misaka 🌙</h1>
+<h1 align="center">Hi there, I'm Misaka 🌙</h1>
 
 <p align="center">
   <b>Software Engineering Student</b><br />
-  记录学习，持续构建。<br />
+  Learning by building, one project at a time.<br />
   <sub>Algorithms · Systems · AI Experiments</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/misaka15135?tab=repositories">探索项目</a>
+  <a href="https://github.com/misaka15135?tab=repositories">Explore projects</a>
   &nbsp; ✦ &nbsp;
-  <a href="https://github.com/misaka15135/daily-algorithm">每日算法</a>
+  <a href="https://github.com/misaka15135/world_builder">World Builder</a>
   &nbsp; ✦ &nbsp;
-  <a href="https://github.com/misaka15135?tab=stars">收藏夹</a>
+  <a href="https://github.com/misaka15135?tab=stars">My stars</a>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/starlight.svg" width="100%" alt="Blue and violet starlight divider" />
 </p>
 
-### 🌌 About me
+### 🌌 About Me
 
-软件工程在读，把学习过程和小想法写进代码里。
+I'm a software engineering student turning what I learn into working projects.
 
-- **算法练习**：用 C++ 记录 LeetCode 解法与思路。
-- **系统学习**：探索操作系统与编译原理。
-- **AI 实验**：尝试本地模型部署、模型对比与实用工具。
+- **Algorithms:** practicing problem solving with C++ and LeetCode.
+- **Systems:** exploring operating systems and compiler design.
+- **AI & interaction:** experimenting with agent-driven world generation and multimodal interfaces.
 
-### 🧩 Languages & tools
+### 🧩 Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/toolkit.svg" width="100%" alt="C++, C, Python, JavaScript, Git, and Linux" />
 </p>
 
-### ✨ Project constellation
+### ✨ Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/misaka15135/daily-algorithm">
-        <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/project-algorithms.svg" width="100%" alt="Daily Algorithm — C++ LeetCode solutions and notes" />
+      <a href="https://github.com/misaka15135/world_builder">
+        <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/project-world-builder.svg" width="100%" alt="world-builder — agent-driven 3D scene generation in Python" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/misaka15135/xv6-lab-2025">
-        <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/project-systems.svg" width="100%" alt="xv6 Lab — operating system experiments in C on RISC-V" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/misaka15135/llm-deploy-and-comparison-cn">
-        <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/project-models.svg" width="100%" alt="LLM Experiments — local model deployment and comparison" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/misaka15135/claude-code-notify">
-        <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/project-tools.svg" width="100%" alt="Claude Code Notify — desktop and Telegram notifications" />
+      <a href="https://github.com/misaka15135/multimodel_interface_project">
+        <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/project-multimodal.svg" width="100%" alt="multimodel_interface_project — browser interaction through eye tracking, gestures, and voice" />
       </a>
     </td>
   </tr>
 </table>
 
+### 📊 My GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/stats.svg" width="49%" alt="Misaka's GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/top-langs.svg" width="49%" alt="Languages used across Misaka's public GitHub repositories" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake.svg" />
+    <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake.svg" width="100%" alt="An animated snake moving through Misaka's GitHub contribution graph" />
+  </picture>
+</p>
+
+### ⏱️ My WakaTime
+
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/wakatime.svg" width="100%" alt="Misaka's WakaTime coding activity" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/starlight.svg" width="100%" alt="Blue and violet starlight divider" />
-  <sub>小さな一歩を、毎日。 · 每天前进一小步。</sub>
+  <sub>A small step forward, every day.</sub>
 </p>

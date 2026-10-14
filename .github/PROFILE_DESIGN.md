@@ -1,6 +1,14 @@
 # Profile design
 
-The public profile is rendered from the root README.md. All displayed graphics are stored in assets/; no third-party statistics service is required.
+The public profile is rendered from the root README.md. All displayed graphics are stored in assets/. The profile is entirely in English and features World Builder and the multimodal browser-interface project.
+
+## Dynamic widgets
+
+The `Update profile widgets` GitHub Actions workflow generates GitHub statistics, language distribution, and a contribution-grid snake animation. It refreshes daily and can also be run manually. The generated cards are stored in `assets/generated/` and served directly from this repository.
+
+Statistics are generated with https://github.com/stats-organization/github-readme-stats-action. The snake animation uses https://github.com/Platane/snk. The statistics layout was inspired by https://github.com/MinmusLin; the profile biography and visual design remain specific to this account.
+
+WakaTime is not connected yet. See [WakaTime setup](WAKATIME_SETUP.md) for the remaining account and editor configuration.
 
 ## Editing
 

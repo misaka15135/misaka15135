@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+  <title id="title">My WakaTime: not connected yet</title>
+  <desc id="desc">Coding time will appear after a WakaTime account is connected.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111d36"/><stop offset="1" stop-color="#1e193b"/></linearGradient></defs>
+  <rect x="1" y="1" width="1198" height="198" rx="18" fill="url(#bg)" stroke="#344362"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="42" y="45" fill="#c4b5fd" font-size="18" letter-spacing="3">CODING ACTIVITY</text>
+    <text x="42" y="98" fill="#f0f6ff" font-size="36" font-weight="700">Not connected yet</text>
+    <text x="42" y="139" fill="#b9c7e1" font-size="24">Connect WakaTime to share coding time by language.</text>
+    <text x="42" y="175" fill="#a5b4fc" font-size="20">Your coding story starts with your next session.</text>
+  </g>
+  <circle cx="1090" cy="99" r="46" fill="none" stroke="#6d6bb3" stroke-width="3"/>
+  <path d="M1090 70v30l20 13" fill="none" stroke="#c4b5fd" stroke-width="4" stroke-linecap="round"/>
+</svg>
