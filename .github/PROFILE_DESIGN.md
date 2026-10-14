@@ -10,6 +10,12 @@ Statistics are generated with https://github.com/stats-organization/github-readm
 
 WakaTime is not connected yet. See [WakaTime setup](WAKATIME_SETUP.md) for the remaining account and editor configuration.
 
+## Manual refresh
+
+Hosted automation is currently unavailable for this account. The initial statistics and contribution animation are generated locally so the profile displays working assets immediately.
+
+To refresh them locally, sign in with GitHub CLI, run `npm ci`, then run `npm run refresh`. Publish the updated SVG files afterward. The script reads the GitHub credential from the CLI and never writes it to the repository. Automatic daily updates can run once GitHub's account restriction is resolved.
+
 ## Editing
 
 - Update the biography and project links in README.md.
