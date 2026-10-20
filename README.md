@@ -56,16 +56,20 @@ I'm a software engineering student turning what I learn into working projects.
 ### 📊 My GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/stats.svg" width="49%" alt="Misaka's GitHub statistics" />
-  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/top-langs.svg" width="49%" alt="Languages used across Misaka's public GitHub repositories" />
+  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/stats.svg?v=activity-2" width="49%" alt="Misaka's GitHub statistics" />
+  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/top-langs.svg?v=activity-2" width="49%" alt="Languages used across Misaka's public GitHub repositories" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake.svg" />
-    <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake.svg" width="100%" alt="An animated snake moving through Misaka's GitHub contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake-dark.svg?v=activity-2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake.svg?v=activity-2" />
+    <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/contribution-snake.svg?v=activity-2" width="100%" alt="An animated snake moving through Misaka's activity, using public commit history when GitHub's contribution calendar is empty" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/misaka15135/misaka15135/main/assets/generated/activity-source.svg" width="100%" alt="Activity data source, count, and date range" />
 </p>
 
 ### ⏱️ My WakaTime

@@ -4,9 +4,13 @@ The public profile is rendered from the root README.md. All displayed graphics a
 
 ## Dynamic widgets
 
-The `Update profile widgets` GitHub Actions workflow generates GitHub statistics, language distribution, and a contribution-grid snake animation. It refreshes daily and can also be run manually. The generated cards are stored in `assets/generated/` and served directly from this repository.
+The `Update profile widgets` GitHub Actions workflow and `npm run refresh` use the same validated generator for statistics, language distribution, and a contribution-grid snake animation. The workflow is scheduled daily and can also be run manually. Generated assets are stored in `assets/generated/` and served directly from this repository.
 
-Statistics are generated with https://github.com/stats-organization/github-readme-stats-action. The snake animation uses https://github.com/Platane/snk. The statistics layout was inspired by https://github.com/MinmusLin; the profile biography and visual design remain specific to this account.
+Statistics are generated with the pinned `github-readme-stats-core` package. The snake animation uses https://github.com/Platane/snk. The statistics layout was inspired by https://github.com/MinmusLin; the profile biography and visual design remain specific to this account.
+
+The generator normally uses GitHub's contribution calendar. If every calendar day is empty, it fetches the user's actual commits with `author:misaka15135 is:public author-date:FROM..TO`, follows every search page, removes duplicate hashes, and counts public commits by UTC author date. The fallback is labeled **Public Commits (last year)** in the statistics card and **Public commit activity (UTC; calendar fallback)** below the animation. It is not presented as GitHub's official contribution total; GitHub's contribution rules can produce different counts. Only public repositories and commits attributed to this user are accepted by the fallback.
+
+Incomplete searches, search results over GitHub's 1,000-result limit, malformed data, and empty fallback results abort generation before replacing existing assets. All cards and animations must be generated before any generated asset is copied into the repository. `assets/generated/activity.json` records the data source, covered dates, total, and refresh time without storing commit details. Run `npm test` to check the fallback, privacy filter, pagination, and SVG labels.
 
 WakaTime is not connected yet. See [WakaTime setup](WAKATIME_SETUP.md) for the remaining account and editor configuration.
 
